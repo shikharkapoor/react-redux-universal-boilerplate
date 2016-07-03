@@ -36,10 +36,4 @@ node_modules
 build
 .DS_Store
 
-server/app.js
-server/fk-cp-zion
-server/*.png
-server/*.jpg
-server/*.svg
-certificates
 /node_modules/
